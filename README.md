@@ -7,12 +7,13 @@ Hi! I'm Naagrace — an aspiring data analyst who enjoys turning raw data into v
 - Microsoft Excel (PivotTables, Charts, Formulas)
 - Data Cleaning & Basic Statistics
 - Data Storytelling & Visualization
-- Exploring Power BI and SQL soon!
+- Power BI and SQL soon
+- Python 
 
 ---
 
 # 📊 Projects So Far:
-Coffee Sales Dashboard
+
 
 ---
 
