@@ -1,52 +1,74 @@
-<<<<<<< HEAD
-# QS World University Rankings 2026 Analysis 🏫📊
+# 🎓 QS World University Rankings 2026 — Data Analysis
 
-This project explores the QS World University Rankings 2026 dataset using Python and data visualization. The goal is to identify key insights about university performance, research output, regional comparisons, and rank movement.
-
----
-
-## 📁 Project Structure
-
-qs-rankings-analysis/  
-├── QS_Rankings_2026_Analysis.ipynb  # Main notebook or script  
-├── data/  
-│   └── qs_rankings_2026.csv         # Dataset (or sample)  
-├── visuals/  
-│   ├── top10_universities.png  
-│   ├── rank_improvement.png  
-│   ├── correlation_heatmap.png  
-│   └── ... more plots  
-├── README.md
-=======
-# 💫 About Me:
-Hi! I'm Naagrace — an aspiring data analyst who enjoys turning raw data into valuable insights using Excel, Python, and other beginner-friendly tools. I'm currently building hands-on projects to grow my portfolio!
+This project explores the **QS World University Rankings 2026** dataset using **Python**, **Pandas**, **Seaborn**, and **VS Code**. The goal is to uncover trends, insights, and interesting patterns about top-ranked universities, research output, regional comparisons, and rank improvements.
 
 ---
 
-# 🌱 Currently Learning:
-- Microsoft Excel (PivotTables, Charts, Formulas)
-- Data Cleaning & Basic Statistics
-- Python for Data Analysis (Pandas, Matplotlib, Seaborn)
-- Data Storytelling & Visualization
-- Power BI and SQL
+## 📊 Key Visualizations
+
+✅ **Top 10 Universities by Overall QS Score**  
+Shows leading institutions globally — MIT takes the #1 spot, followed by Imperial College, Stanford, and Caltech at #10.
+
+✅ **Rank Improvement Chart**  
+Highlights universities with the biggest jump in rank from previous rankings — including Sunway University, Sabancı University, and Abu Dhabi University.
+
+✅ **Top 10 Countries by Number of Universities**  
+Reveals countries with the largest representation — the United States, UK, China (Mainland), and India lead.
+
+✅ **Research Output Leaders**  
+Visualizes the top 10 universities by research output — with Oxford, UCL, and PSL University topping the list.
+
+✅ **Correlation Heatmap**  
+Explores how various QS ranking score metrics relate to each other.
+
+✅ **Boxplots & Scatterplots**  
+Show how Employment Outcomes vary by Region and Research Intensity, and how metrics like International Student Ratio relate to overall scores.
 
 ---
 
-# 📊 Projects So Far:
+## ✨ Insights
 
-### 📌 2026 QS World University Rankings Analysis
-Analyzed over 1,500 global institutions using:
-- Data cleaning and transformation with pandas
-- Exploratory data analysis and visual storytelling with matplotlib/seaborn
-- Insights on rankings, performance metrics, research output, and more!
-📁 [View Project on GitHub]
----
-
-# 📫 Connect With Me:
-- [LinkedIn](www.linkedin.com/in/graceokine) 
-
+- **MIT** holds the #1 position overall.
+- **Sunway University** is among the top gainers in rank improvement.
+- The **United States** has the most institutions represented.
+- Universities like **Oxford** and **UCL** excel in research output.
 
 ---
 
-✨ Always ready to learn, grow, and share my data journey!
->>>>>>> 2fc2132c7dc344244608232c1373ebd66ff8fbef
+## 🛠️ Tools Used
+
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **VS Code**
+- **Git & GitHub**
+
+---
+
+## 🔍 About the Data
+
+The QS World University Rankings dataset provides information on universities’ performance across multiple metrics — Academic Reputation, Employer Reputation, Citations per Faculty, International Faculty/Student Ratios, Research Output, Employment Outcomes, and more.
+
+---
+
+## 📈 What I Learned
+
+- Practical data cleaning with Pandas.
+- Exploratory Data Analysis (EDA) techniques.
+- Creating clear, meaningful visualizations.
+- Telling a story with data through charts and insights.
+- Using Git and GitHub for version control.
+
+---
+
+## 👋 Feedback & Connect
+
+I’m always learning — your feedback or suggestions are welcome!
+
+**Connect with me:**
+- [LinkedIn](www.linkedin.com/in/graceokine)
+
+---
+
+✨ *Thanks for checking out this project!* ✨
